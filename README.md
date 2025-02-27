@@ -122,9 +122,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/eyelor/eyelor/output/snake.svg" alt="Snake animation" />
-
-###
 <!--
 **Eyelor/Eyelor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
