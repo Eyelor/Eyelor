@@ -1,7 +1,11 @@
 <!--
 ## Hi there 👋
 -->
-<h1 align="center">Hi 👋, I'm Jakub, a aspiring Full-Stack developer from Poland</h1>
+<h1 align="center">Hello 👋 fellow developers, tech explorers... or whoever you are!</h1>
+
+###
+
+<h2 align="center">My name is Jakub Kopeć</h2>
 
 ###
 
@@ -9,7 +13,23 @@
 
 ###
 
-<h3 align="center">Nice to see you here :)</h3>
+<div align="center">
+  
+👩‍💻 Aspiring Full-Stack Developer
+  
+🎓 Bachelor's degree in Computer Science
+
+🌐 Passionate about Web Development, Microservices & Cross-Platform Solutions
+
+☁️ Exploring Cloud & AI Technologies – always learning, always experimenting
+
+🚀 Fast Learner | Problem-Solver | Startup Mindset
+
+⚡ Breaking things (responsibly) just to build them better
+
+💡 Big fan of innovation, automation, and a well-placed meme
+
+</div>
 
 ###
 
@@ -19,6 +39,8 @@
 </div>
 
 ###
+
+**I'm familiar with:**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -122,6 +144,11 @@
 
 ###
 
+💬 Let’s Connect!
+
+<a href="https://www.linkedin.com/in/jakub-karol-kopec/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=default&logo=LinkedIn&logoColor=white"/><a/> <img src="https://img.shields.io/badge/jakub.karol.kopec@gmail.com-CE3C30.svg?style=default&logo=Gmail&logoColor=white"/>
+
+###
 <!--
 **Eyelor/Eyelor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
