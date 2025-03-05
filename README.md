@@ -146,7 +146,7 @@
 
 💬 Let’s Connect!
 
-<a href="https://www.linkedin.com/in/jakub-karol-kopec/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=default&logo=LinkedIn&logoColor=white"/><a/> <img src="https://img.shields.io/badge/jakub.karol.kopec@gmail.com-CE3C30.svg?style=default&logo=Gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/jakub-karol-kopec/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=default&logo=LinkedIn&logoColor=white"/></a> <a href="mailto:jakub.karol.kopec@gmail.com"><img src="https://img.shields.io/badge/jakub.karol.kopec@gmail.com-CE3C30.svg?style=default&logo=Gmail&logoColor=white"/></a>
 
 ###
 <!--
