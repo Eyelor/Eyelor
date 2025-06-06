@@ -15,7 +15,7 @@
 
 <div align="center">
   
-👩‍💻 Aspiring Full-Stack Developer
+👩‍💻 Full-Stack Developer
   
 🎓 Bachelor's degree in Computer Science
 
