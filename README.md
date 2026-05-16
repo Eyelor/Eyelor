@@ -15,19 +15,19 @@
 
 <div align="center">
   
-👩‍💻 Full-Stack Developer
+🏴‍☠️ Software Engineer & Cloud Explorer
   
-🎓 Bachelor's degree in Computer Science
+🎓 B.Eng. in Computer Science (Graduated with Honors)
 
-🌐 Passionate about Web Development, Microservices & Cross-Platform Solutions
+🌐 Tech-Agnostic Developer | Thriving in full-stack ecosystems and distributed systems
 
-☁️ Exploring Cloud & AI Technologies – always learning, always experimenting
+☁️ Cloud & Edge Enthusiast | Deploying production logic to the edge and automating the boring stuff
 
-🚀 Fast Learner | Problem-Solver | Startup Mindset
+🚀 Startup Mindset | Building fast, adapting quickly, and comfortable with high-pressure environments
 
-⚡ Breaking things (responsibly) just to build them better
+⚡ Chaos Engineer | I don't just write code – I rescue projects, optimize architecture, and scale infrastructure
 
-💡 Big fan of innovation, automation, and a well-placed meme
+💡 Big fan of innovation, automation, and a well-placed meme (obviously)
 
 </div>
 
